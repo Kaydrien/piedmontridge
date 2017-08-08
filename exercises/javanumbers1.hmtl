@@ -1,0 +1,38 @@
+
+Exercise:
+
+Create a variable called myNumber, assign the value 50 to it, and display it.
+
+Edit This Code:
+
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+​
+
+<p id="demo">Display the result here.</p> 
+
+​
+
+<script>
+
+var myNumber = 50;
+
+document.getElementById("demo").innerHTML=myNumber;
+
+</script>
+
+​
+
+</body>
+
+</html>
+
+​
+
+Result:
+Exercise - © w3schools.com
+
