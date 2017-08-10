@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var text = "";
+var x;
+
+for (x = 1; x < 10; x += 2) { 
+   text += x + "<br>";
+
+}
+
+document.getElementById("demo").innerHTML = text;
+</script>
+
+</body>
+</html>
+
